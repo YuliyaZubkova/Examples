@@ -1,0 +1,15 @@
+/Users/yuliya/Desktop/GIT/Examples/Example001/bin/Debug/net7.0/Example001
+/Users/yuliya/Desktop/GIT/Examples/Example001/bin/Debug/net7.0/Example001.deps.json
+/Users/yuliya/Desktop/GIT/Examples/Example001/bin/Debug/net7.0/Example001.runtimeconfig.json
+/Users/yuliya/Desktop/GIT/Examples/Example001/bin/Debug/net7.0/Example001.dll
+/Users/yuliya/Desktop/GIT/Examples/Example001/bin/Debug/net7.0/Example001.pdb
+/Users/yuliya/Desktop/GIT/Examples/Example001/obj/Debug/net7.0/Example001.csproj.AssemblyReference.cache
+/Users/yuliya/Desktop/GIT/Examples/Example001/obj/Debug/net7.0/Example001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliya/Desktop/GIT/Examples/Example001/obj/Debug/net7.0/Example001.AssemblyInfoInputs.cache
+/Users/yuliya/Desktop/GIT/Examples/Example001/obj/Debug/net7.0/Example001.AssemblyInfo.cs
+/Users/yuliya/Desktop/GIT/Examples/Example001/obj/Debug/net7.0/Example001.csproj.CoreCompileInputs.cache
+/Users/yuliya/Desktop/GIT/Examples/Example001/obj/Debug/net7.0/Example001.dll
+/Users/yuliya/Desktop/GIT/Examples/Example001/obj/Debug/net7.0/refint/Example001.dll
+/Users/yuliya/Desktop/GIT/Examples/Example001/obj/Debug/net7.0/Example001.pdb
+/Users/yuliya/Desktop/GIT/Examples/Example001/obj/Debug/net7.0/Example001.genruntimeconfig.cache
+/Users/yuliya/Desktop/GIT/Examples/Example001/obj/Debug/net7.0/ref/Example001.dll
